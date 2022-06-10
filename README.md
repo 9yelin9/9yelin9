@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center"> Life is either a daring adventure or nothing at all. </div>
+<div align="center"> ✨ Life is either a daring adventure or nothing ✨ </div>
