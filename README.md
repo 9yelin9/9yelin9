@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-$$ H = \sum_{\langle ij \rangle, \sigma} t_{ij}\, \hat{c}^{\dagger}_{i\sigma} \hat{c}_{j\sigma} + \sum_{i} U\, \hat{n}_{i\uparrow}\hat{n}_{i\downarrow} $$
+$$ H = \sum_{\langle ij \rangle, \sigma} t_{ij}\tab \hat{c}^{\dagger}_{i\sigma} \hat{c}_{j\sigma} + \sum_{i} U\tab \hat{n}_{i\uparrow}\hat{n}_{i\downarrow} $$
