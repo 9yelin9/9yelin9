@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  ✨ Life is either a daring adventure or nothing ✨
+  $$H = \sum_{ij} t_{ij} \hat{c}^{\dagger}_{i} \hat{c}_{j}$$
 </div>
