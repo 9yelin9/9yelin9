@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-$$\sout{\mathrm{YERIN}}\mathrm{JANG}$$
+$$\cancel{\mathrm{YERIN}}\mathrm{JANG}$$
