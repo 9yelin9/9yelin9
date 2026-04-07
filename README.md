@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<strike>$$\mathrm{YELIN}$$<\strike>
+~~$$\mathrm{YELIN}$$~~
