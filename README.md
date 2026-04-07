@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-$$ H = -t \sum_{ij} (\hat{c}^{\dagger}_{i} \hat{c}_{j} + \hat{c}^{\dagger}_{j} \hat{c}_{i}) $$
+$$ H = \sum_{\langle ij \rangle, \simga} t_{ij} \hat{c}^{\dagger}_{i\sigma} \hat{c}_{j\sigma} + \sum_{i} U \hat{n}_{i\uparrow}\hat{n}_{i\downarrow} $$
