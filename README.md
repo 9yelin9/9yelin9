@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 -->
 
 $$
-\begin{bmatrix}
+\begin{pmatrix}
 \mathrm{YERIN} \\
 \mathrm{JANG}
-\end{bmatrix}
+\end{pmatrix}
 $$
