@@ -14,6 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-  $$H = \sum_{ij} t_{ij} \hat{c}^{\dagger}_{i} \hat{c}_{j}$$
-</div>
+$$H = \sum_{ij} t_{ij} \hat{c}^{\dagger}_{i} \hat{c}_{j}$$
