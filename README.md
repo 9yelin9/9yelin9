@@ -14,5 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-$$\cancel{\mathrm{YERIN}}$$
-$$\mathrm{JANG}$$
+$$
+\begin{bmatrix}
+\mathrm{YERIN} \\
+\mathrm{JANG}
+\end{bmatrix}
+$$
