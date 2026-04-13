@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ae776185-e1c3-48b3-bac0-8f9a51552382" width="200">
+  <img src="https://github.com/user-attachments/assets/ae776185-e1c3-48b3-bac0-8f9a51552382" width="300">
 </p>
