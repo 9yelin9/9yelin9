@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/18648499-1c68-4911-aafe-90eae11330b2" />
+![huhcat](https://github.com/user-attachments/assets/18648499-1c68-4911-aafe-90eae11330b2)
