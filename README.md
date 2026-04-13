@@ -14,9 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-$$
-\begin{Bmatrix}
-\mathrm{YERIN}\\
-\mathrm{JANG}
-\end{Bmatrix}
-$$
+![huhcat](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzllYmdrZWFqeTFwZWc5eDBydDIzMWhia3hjcmg2aWhpYTl0cDdncCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GRk3GLfzduq1NtfGt5/giphy.gif)
