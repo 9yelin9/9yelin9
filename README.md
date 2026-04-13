@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/v1.Y2lkPT.../giphy.gif](https://github.com/user-attachments/assets/ae776185-e1c3-48b3-bac0-8f9a51552382)" width="100">
+  <img src="https://github.com/user-attachments/assets/ae776185-e1c3-48b3-bac0-8f9a51552382" width="100">
 </p>
