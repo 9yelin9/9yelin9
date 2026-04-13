@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![huhcat](https://github.com/user-attachments/assets/18648499-1c68-4911-aafe-90eae11330b2)
+![huhcat](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzllYmdrZWFqeTFwZWc5eDBydDIzMWhia3hjcmg2aWhpYTl0cDdncCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GRk3GLfzduq1NtfGt5/giphy.gif)
