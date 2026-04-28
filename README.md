@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 HelloWorld("print")
 ```
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/efc6bc1a-fbd1-42fb-9976-663b102f191c" width="200">
+  <img src="https://github.com/user-attachments/assets/3a38ae15-ce0e-4ff1-aaf6-07cf25275b22" width="200">
 </p>
